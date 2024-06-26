@@ -1,0 +1,6 @@
+@MultiLayerProject_HostAddress = http://localhost:5166
+
+GET {{MultiLayerProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
